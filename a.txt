@@ -1,0 +1,3 @@
+git config --global user.name "Your Name"
+git config --global user.name "Your Name"git config --global user.name "Your Name"
+212121222122212
